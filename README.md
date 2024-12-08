@@ -2,7 +2,7 @@
 
 Este script de Python incluye las siguientes características:
 
-1. Una función `generar_contrasena` que crea una contraseña basada en los criterios especificados.
+1. Una función `generar_contrasena` que crea una contraseña segura basada en los criterios especificados.
 2. Un bucle que asegura que la contraseña generada cumpla con todos los criterios seleccionados.
 3. Una interfaz de línea de comandos que permite al usuario especificar:
 
